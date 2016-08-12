@@ -1,4 +1,4 @@
-## Light and Fast Service for generation thumbnails
+# Light and Fast Service for generation thumbnails
 
 ```js
 var thumbnailer = require('thumbnailer');
