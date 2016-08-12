@@ -1,0 +1,29 @@
+{
+	"thumbnailer": {
+		"secret": "Test",
+		"timeout": 10000,
+		"clearInterval": 3600,
+		"width": {
+			"min": 3,
+			"max": 1024
+		},
+		"height": {
+			"min": 3,
+			"max": 1024
+		},
+		"downloadExts": {
+			"gif": true,
+			"jpg": true,
+			"jpeg": true,
+			"png": true
+		},
+		"uploadExts": {
+			"gif": "im",
+			"jpg": true,
+			"jpeg": true,
+			"png": true,
+			"ico": "im",
+			"webm": "im"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "thumbnailer",
+	"version": "2.1.0",
+	"description": "Light and Fast Service for generation",
+	"author": "arsen.mem@gmail.com (Arsen Melkumiants)",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/arsen-melkumiants/react-spa.git"
+	},
+	"dependencies": {
+		"base64-url": "1.2.2",
+		"config": "1.20.1",
+		"cron": "1.1.0",
+		"express": "4.13.4",
+		"file-type": "3.8.0",
+		"gm": "1.22.0",
+		"mkdirp": "0.5.1",
+		"request": "2.72.0"
+	},
+	"license": "MIT"
+}
