@@ -12,7 +12,7 @@ app.listen(3000)
 
 ## Features
 
-  * An module sub-app for Express
+  * Modular sub-app for Express
   * Optimized resizing images according to a format
   * Uses queue request stack for high performance
   * HTTP errors handler
@@ -21,7 +21,7 @@ app.listen(3000)
 
 ## Quick Start
 
-Firstly, we need to set config file. Create folder config and create file with name default-0.json
+Firstly, we need to set a config file. Create a folder **config** and create the file with name **default-0.json**
 Read more about [Config](https://www.npmjs.com/package/config) module on npm
 
 An example of config:
@@ -64,10 +64,10 @@ An example of config:
 
 ## Examples
 
-Url with test image
+URL with test image
 /aHR0cDovL3d3dy5wcml2YXRlaXNsYW5kbmV3cy5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTMvMTIvSEREU0NfMDA1MS5qcGc/500/300/hYBRDyFhjuykKPp-NXGdzviXJ2H0gZtzqN9sC9capHs.jpg
 
-Put it into browser adress field
+Put it into browser address field
 
 ## License
 
